@@ -7,7 +7,7 @@ import utfpr.ct.dainf.if62c.pratica.Elipse;
  * DAINF - Departamento Acadêmico de Informática
  * IF62C - Fundamentos de Programação 2
  * 
- * Template de projeto de programa Java usando Maven.
+ * Prática de programação.
  * @author Wilson Horstmeyer Bogado <wilson@utfpr.edu.br>
  */
 public class Pratica41 {
